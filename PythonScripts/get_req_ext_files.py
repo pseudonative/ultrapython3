@@ -1,10 +1,9 @@
 #!/usr/local/bin/python3.7
 import os 
 req_path=input("Enter your directory path: ")
-# req_ex=input("Enter the required files extension .py/ .sh/ .log/ .txt: ")
 
 if os.path.isfile(req_path):
-    print("The Given path {req_path} is a file. please pass only directory path")
+    print(f"The Given path {req_path} is a file. please pass only directory path")
 else:
     all_f_ds=os.listdir(req_path)
     if len(all_f_ds)==0:
