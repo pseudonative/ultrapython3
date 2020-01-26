@@ -23,10 +23,12 @@ def get_sub(a,b):
     print(f'The subtraction of {a} and {b} is: {sresult}')
     return None
 def main():
-    a=eval(input("Enter your first number: "))
-    b=eval(input("Enter your second number:"))
-    get_add(a,b)
-    get_sub(a,b)
+    # a=eval(input("Enter your first number: "))
+    # b=eval(input("Enter your second number:"))
+    # get_add(a,b)
+    # get_sub(a,b)
+    get_sub(19,22)
     return None
+
 main()
 
