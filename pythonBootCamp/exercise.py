@@ -31,11 +31,17 @@
 # else:
 #     calling_in_sick=False
 
-
+"""
 x=0
 for n in range(11,21,2):
     if n % 2 !=0:
         x+=n
 print(n)
+"""
 
+sounds=["super","cali","fragil","istic","expi","ali","docious"]
+result=''
+for s in sounds:
+    result+=s.upper()
+    print(result)
 
