@@ -31,12 +31,28 @@
 # else:
 #     calling_in_sick=False
 
+<<<<<<< HEAD
 
 
 
 from random import randint
 number=0
 i=0
+=======
+"""
+x=0
+for n in range(11,21,2):
+    if n % 2 !=0:
+        x+=n
+print(n)
+"""
+
+sounds=["super","cali","fragil","istic","expi","ali","docious"]
+result=''
+for s in sounds:
+    result+=s.upper()
+    print(result)
+>>>>>>> 876475065fc06e954d782383fc06d1bb41d853f4
 
 while number!=5:
     i+=1
