@@ -31,29 +31,101 @@
 # else:
 #     calling_in_sick=False
 
-<<<<<<< HEAD
 
 
 
-from random import randint
-number=0
-i=0
-=======
-"""
-x=0
-for n in range(11,21,2):
-    if n % 2 !=0:
-        x+=n
-print(n)
-"""
+# from random import randint
+# number=0
+# i=0
 
-sounds=["super","cali","fragil","istic","expi","ali","docious"]
-result=''
-for s in sounds:
-    result+=s.upper()
-    print(result)
->>>>>>> 876475065fc06e954d782383fc06d1bb41d853f4
+# while number!=5:
+#     i+=1
+#     number=randint(1,10)
 
-while number!=5:
-    i+=1
-    number=randint(1,10)
+
+
+# def square(num):
+#     return num * num
+# print(square(4))
+# print(square(8))
+
+
+
+# def sing_happy_birthday():
+#     print("Happy Birthday to you")
+#     print("Happy Birthday to you")
+#     print("Happy Birthday dear you")
+#     print("Happy Birthday to you")
+# sing_happy_birthday()
+# sing_happy_birthday()
+# sing_happy_birthday()
+# sing_happy_birthday()
+# sing_happy_birthday()
+# sing_happy_birthday()
+    
+
+
+# def sing_happy_birthday(name):
+#     print("Happy Birthday to you")
+#     print("Happy Birthday to you")
+#     print(f"Happy Birthday dear {name}\n")
+#     print("Happy Birthday to you")
+# sing_happy_birthday("Lex")
+# sing_happy_birthday("Demi")
+
+# # sing_happy_birthday()
+# # sing_happy_birthday()
+# # sing_happy_birthday()
+# # sing_happy_birthday()
+# # sing_happy_birthday()
+    
+
+# def divide(num1,num2):
+#     return num1/num2
+# print(divide(2,5))
+# print(divide(5,2))
+
+
+
+
+# def yell(word):
+#     print(f"{word.upper()}!")
+# yell("FUCK")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
